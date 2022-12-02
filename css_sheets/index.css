@@ -1,0 +1,30 @@
+html{
+    background-color: black;
+    color: whitesmoke;
+    text-align: center;
+}
+.link-text{
+    font-size: larger;
+
+}
+
+a:link {
+  color: crimson;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:visited {
+  color: coral;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:hover {
+  color: red;
+  background-color: transparent;
+  text-decoration: underline;
+}
+
+
+
