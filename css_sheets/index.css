@@ -7,6 +7,9 @@ html{
     font-size: larger;
 
 }
+.emph-txt{
+    font-size: xx-large;
+}
 
 a:link {
   color: crimson;
@@ -15,7 +18,7 @@ a:link {
 }
 
 a:visited {
-  color: coral;
+  color: crimson;
   background-color: transparent;
   text-decoration: none;
 }
